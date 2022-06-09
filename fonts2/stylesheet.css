@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-SemiBoldItalic.eot');
+    src: url('Raleway-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Raleway-SemiBoldItalic.woff2') format('woff2'),
+        url('Raleway-SemiBoldItalic.woff') format('woff'),
+        url('Raleway-SemiBoldItalic.svg#Raleway-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
